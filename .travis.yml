@@ -1,0 +1,7 @@
+language: node_js
+
+jdk:
+  - oraclejdk8
+
+install: true
+
